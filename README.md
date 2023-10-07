@@ -9,8 +9,8 @@
 
 ## Ссылки на проект
 
-IP-адрес x.x.x.x
+IP-адрес 51.250.68.110
 
-Frontend https://...
+Frontend https://davedeneev.students.nomoredomainsrocks.ru
 
-Backend https://...
+Backend https://api.davedeneev.students.nomoredomainsrocks.ru
