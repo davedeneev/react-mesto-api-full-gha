@@ -1,0 +1,44 @@
+{
+  "name": "react-mesto-api-full-gha",
+  "version": "1.0.0",
+  "description": "15 pr",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js",
+    "lint": "npx eslint .",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davedeneev/react-mesto-api-full-gha.git"
+  },
+  "author": "Dmitry Vedeneev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davedeneev/react-mesto-api-full-gha/issues"
+  },
+  "homepage": "https://github.com/davedeneev/react-mesto-api-full-gha#readme",
+  "devDependencies": {
+    "eslint": "^8.50.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.28.1",
+    "jest": "^29.7.0",
+    "nodemon": "^3.0.1"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "celebrate": "^15.0.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.28.1",
+    "express": "^4.18.2",
+    "express-winston": "^4.2.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^7.5.3",
+    "nodemon": "^3.0.1",
+    "validator": "^13.11.0",
+    "winston": "^3.10.0"
+  }
+}

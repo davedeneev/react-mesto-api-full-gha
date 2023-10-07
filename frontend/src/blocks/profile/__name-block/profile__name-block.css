@@ -1,0 +1,17 @@
+.profile__name-block {
+    margin: 0;
+    position: relative;
+    max-width: 100%;
+    display: flex;
+    align-items: baseline;
+    gap: 18px;
+}
+
+@media screen and (max-width: 767px) {
+    .profile__name-block {
+        padding-top: 22px;
+        padding-left: 18px;
+        justify-content: center;
+        gap: 10px;
+    }
+}

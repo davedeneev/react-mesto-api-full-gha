@@ -1,0 +1,13 @@
+.authorization__registered-link {
+    text-decoration: none;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    color: #FFFFFF;
+    transition: opacity .1s ease-in-out;
+}
+
+.authorization__registered-link:hover {
+    opacity: .6;
+}

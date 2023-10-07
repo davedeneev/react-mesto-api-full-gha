@@ -1,0 +1,13 @@
+.popup__reg-text {
+    margin-top: 32px;
+    margin-bottom: 60px;
+    max-width: 358px;
+    color: #000;
+    text-align: center;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+
+    /*margin: 32px 36px 60px 32px;*/
+}

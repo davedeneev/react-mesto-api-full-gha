@@ -1,0 +1,8 @@
+.popup__input-block {
+    display: flex;
+    flex-direction: column;
+}
+
+.popup__input-block:first-child {
+    margin-top: 54px;
+}
