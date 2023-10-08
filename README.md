@@ -5,11 +5,11 @@
   
 Пожалуйста, прикрепите в это описание ссылку на сайт, размещенный на Яндекс.Облаке.
 
-Адрес репозитория: https://github.com/...
+Адрес репозитория: https://github.com/davedeneev/react-mesto-api-full-gha
 
 ## Ссылки на проект
 
-IP-адрес 51.250.84.198
+IP 51.250.84.198
 
 Frontend https://davedeneev.students.nomoredomainsrocks.ru
 
