@@ -82,7 +82,7 @@ module.exports.editUserProfile = (req, res, next) => {
     { new: 'true', runValidators: true },
   )
     .then((user) => {
-      if (req.user._id === undefined) {
+      if (user === null) {
         return next(new NotFoundError('Запрашиваемый пользователь не найден'));
       }
       return res.send(user);
@@ -102,7 +102,7 @@ module.exports.editUserAvatar = (req, res, next) => {
     { new: 'true', runValidators: true },
   )
     .then((user) => {
-      if (req.user._id === undefined) {
+      if (user === null) {
         return next(new NotFoundError('Запрашиваемый пользователь не найден'));
       }
       return res.send(user);
