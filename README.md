@@ -9,7 +9,7 @@
 
 ## Ссылки на проект
 
-IP-адрес 51.250.68.110
+IP-адрес 51.250.84.198
 
 Frontend https://davedeneev.students.nomoredomainsrocks.ru
 
